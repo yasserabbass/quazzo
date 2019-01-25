@@ -1,0 +1,16 @@
+.main-header {
+  background: linear-gradient(rgba(150, 150, 150, 0.9), rgba(10, 10, 10, 0.9)), url(../img/background.jpeg);
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: white;
+}
+
+.main-header .showcase {
+  padding-top: 100px;
+}
+
+.active-link {
+  color: rgb(90, 14, 90);
+  font-weight: bold;
+}
