@@ -81,3 +81,8 @@
 .tabs .tab a {
   padding: 0 !important;
 }
+
+.btn-extend {
+  display: block;
+  width: 100%;
+}
